@@ -11,7 +11,7 @@
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background: #aedbf4; /* Light pastel blue background color */
+    background: #373a34; /* Light pastel blue background color */
   }
   
 
@@ -31,7 +31,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('bb.jpg') center/cover; /* Add your background image URL */
+    background: url('./4.jpg') center/cover; /* Add your background image URL */
     color: white;
     padding: 20px;
     border-top-left-radius: 10px;
@@ -80,7 +80,7 @@
   }
 
   input[type="submit"] {
-    background-color: #800080; /* Purple color */
+    background-color: #ff0000; /* Purple color */
     color: white;
     cursor: pointer;
     padding: 10px;
